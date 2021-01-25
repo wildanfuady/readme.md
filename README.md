@@ -11,8 +11,8 @@ Mau menghubungi saya lebih lanjut? Bisa ke email wildanfuady@gmail.com
 Pengalaman:
 
 1. IlmuCoding.com as Founder
-2. RumahCoding.coid as Trainer and Fullstack Developer
+2. RumahCoding.co.id as Trainer and Fullstack Developer
 3. Medcom VisiTama as Web and Android Developer
-4. Sabila Mall as Web and Android Developer
+4. SabilaMall.co.id as Web and Android Developer
 
 Terima kasih.
