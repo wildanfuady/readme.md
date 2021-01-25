@@ -1,4 +1,4 @@
-# :wafe: Selamat Datang :wafe:
+# :wave: Selamat Datang :wave:
 
 Ini adalah halaman khusus untuk memperkenalkan diri saya.
 
